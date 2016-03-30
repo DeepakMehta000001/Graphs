@@ -1,4 +1,6 @@
 '__author__'=='deepak Singh Mehta(learning brute force)) '
+#Testcases on the given link.. 
+#https://www.hackerrank.com/challenges/the-quickest-way-up
 
 if __name__=='__main__':
   tests = int(input())
