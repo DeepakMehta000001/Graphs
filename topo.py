@@ -1,7 +1,7 @@
 '__author__'=='deepak Singh Mehta(learning to code)) '
 '''
-    Graph#5 Topological Sorting in DAG.
-    Principle is to use stack with keeps track
+    Graph# Topological Sorting in DAG.
+    Principle is to use stack which keeps track of
     all the "edged from v" nodes before v pushing
     v
 
